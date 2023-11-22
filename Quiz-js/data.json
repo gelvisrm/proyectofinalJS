@@ -1,0 +1,54 @@
+[
+    {
+        "question": "¿Cuál es la danza tradicional de Venezuela?",
+        "choices": ["Joropo", "Salsa", "Tango", "Merengue"],
+        "answer": "Joropo"
+    },
+    {
+        "question": "¿Qué escritor venezolano escribió 'Doña Bárbara'?",
+        "choices": ["Andrés Eloy Blanco", "Rómulo Gallegos", "Miguel Otero Silva", "Arturo Uslar Pietri"],
+        "answer": "Rómulo Gallegos"
+    },
+    {
+        "question": "¿Quién es conocido como el Tío Simón en la música venezolana?",
+        "choices": ["Simón Díaz", "Simón Bolívar", "Simón Rodríguez", "Simón Petrikov"],
+        "answer": "Simón Díaz"   
+    },
+    {
+        "question": "¿Qué famoso monumento de Caracas es un ícono arquitectónico de la ciudad?",
+        "choices": ["Obelisco de Barquisimeto", "Panteón Nacional", "Plaza Venezuela", "Torre David"],
+        "answer": "Torre David"  
+    },
+    {
+        "question": "¿Qué artista plástico venezolano fue precursor del cinetismo?",
+        "choices": ["Armando Reverón", "Carlos Cruz-Diez", "Jesús Soto", "Rafael Monasterios"],
+        "answer": "Carlos Cruz-Diez"  
+    },
+    {
+        "question": "¿Cuál es el plato típico navideño por excelencia?",
+        "choices": ["Arepas", "Hallaca", "Pabellón Criollo", "Cachapa"],
+        "answer": "Hallaca"  
+    },
+    {
+        "question": "¿Qué famoso salto de agua en Venezuela es considerado el más alto del mundo?",
+        "choices": ["Salto Kerepakupai Vena (Salto Ángel)", "Salto Paraíso", "Salto Hacha", "Salto Aponwao"],
+        "answer": "Salto Kerepakupai Vena (Salto Ángel)"
+    },
+    {
+        "question": "¿Cuál es el nombre del fenómeno natural que se produce en el Lago de Maracaibo?",
+        "choices": ["Aurora boreal", "Relámpago del Catatumbo", "Tormenta de verano", "Vientos alisios"],
+        "answer": "Relámpago del Catatumbo"
+    },
+    {
+        "question": "¿Qué parque nacional es famoso por sus formaciones rocosas con aspecto de tepuyes en forma de dientes?",
+        "choices": ["Parque Nacional Henri Pittier", "Parque Nacional El Ávila", "Parque Nacional Morrocoy", "Parque Nacional Canaima"],
+        "answer": "Parque Nacional Canaima"
+    },
+    {
+        "question": "¿Cuál es el nombre de la tribu indígena que construye sus viviendas en el agua en el Delta del Orinoco?",
+        "choices": ["Warao", "Yanomami", "Pemon", "Wayúu"],
+        "answer": "Warao"
+    }
+]
+
+
